@@ -1,0 +1,5 @@
+os.pullEvent =  os.pullEventRaw 
+-- This stops the Crtl+T working
+
+textutils.XXXXX
+  -- This is a text command API in the system. 
